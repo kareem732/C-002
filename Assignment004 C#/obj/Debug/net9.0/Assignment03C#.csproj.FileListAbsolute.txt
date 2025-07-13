@@ -1,0 +1,14 @@
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\bin\Debug\net9.0\Assignment03C#.exe
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\bin\Debug\net9.0\Assignment03C#.deps.json
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\bin\Debug\net9.0\Assignment03C#.runtimeconfig.json
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\bin\Debug\net9.0\Assignment03C#.dll
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\bin\Debug\net9.0\Assignment03C#.pdb
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.AssemblyInfoInputs.cache
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.AssemblyInfo.cs
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.csproj.CoreCompileInputs.cache
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.dll
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\refint\Assignment03C#.dll
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.pdb
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\Assignment03C#.genruntimeconfig.cache
+E:\FrameWork Front-end\Assignment03C#\Assignment03C#\obj\Debug\net9.0\ref\Assignment03C#.dll
