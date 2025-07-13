@@ -1,0 +1,14 @@
+E:\FrameWork Front-end\132\132\bin\Debug\net9.0\132.exe
+E:\FrameWork Front-end\132\132\bin\Debug\net9.0\132.deps.json
+E:\FrameWork Front-end\132\132\bin\Debug\net9.0\132.runtimeconfig.json
+E:\FrameWork Front-end\132\132\bin\Debug\net9.0\132.dll
+E:\FrameWork Front-end\132\132\bin\Debug\net9.0\132.pdb
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.GeneratedMSBuildEditorConfig.editorconfig
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.AssemblyInfoInputs.cache
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.AssemblyInfo.cs
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.csproj.CoreCompileInputs.cache
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.dll
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\refint\132.dll
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.pdb
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\132.genruntimeconfig.cache
+E:\FrameWork Front-end\132\132\obj\Debug\net9.0\ref\132.dll
